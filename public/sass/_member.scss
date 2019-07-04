@@ -1,0 +1,117 @@
+.member_container {
+    // border: 1px solid;
+    >.member_info {
+        // border: 1px solid;
+        display: flex;
+        vertical-align: middle;
+        flex-direction: column;
+        justify-content: center;
+        >.info_title {
+            // border: 1px solid;
+            margin: 5px;
+            padding: 5px;
+            >a {
+                &:hover {
+                    cursor: pointer;
+                    color: $hoverTextColor;
+                }
+            }
+        }
+        >.info_list {
+            // border: 1px solid;
+            margin: 5px;
+            padding: 5px;
+            >ul {
+                list-style-type: none;
+                padding: 0px;
+                width: 100%;
+                >li {
+                    // border: 1px solid;
+                    display: inline;
+                    margin: 5px 0px 5px 5px;
+                    padding: 5px;
+                    &:hover {
+                        color: $hoverTextColor;
+                        cursor: pointer;
+                    }
+                }
+            }
+        }
+        >.info_content {
+            border: 1px solid $borderColor;
+            border-radius: 5px;
+            margin: 5px;
+            padding: 5px;
+            >.content_info {
+                // border: 1px solid;
+                margin: 5px;
+                padding: 5px;
+                >.info_member {
+                    // border: 1px solid;
+                    width: 60%;
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: flex-start;
+                    margin: 5px;
+                    padding: 5px;
+                    >input {
+                        width: 50%;
+                    }
+                    >button {
+                        width: 50%;
+                    }
+                }
+                >.info_order {
+                    // border: 1px solid;
+                    display: table;
+                    width: 100%;
+                    margin: 5px;
+                    >.order_tr {
+                        display: table-row;
+                        >.order_td {
+                            border-bottom: 1px solid $borderColor;
+                            display: table-cell;
+                            height: 100%;
+                            margin: 5px;
+                            text-align: center;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    >.member_login {
+        // border: 1px solid;
+        display: flex;
+        vertical-align: middle;
+        flex-direction: row;
+        justify-content: center;
+        padding: 5px;
+        >.login_content {
+            border: 1px solid $borderColor;
+            width: 50%;
+            margin: 10px;
+            padding: 20px;
+            display: flex;
+            vertical-align: middle;
+            flex-direction: column;
+            justify-content: center;
+            text-align: center;
+            border-radius: 5px;
+            >span {
+                display: block;
+                font-size: 25px;
+            }
+            >.content_option {
+                display: flex;
+                vertical-align: middle;
+                flex-direction: row;
+                justify-content: space-between;
+                text-align: center;
+                >button {
+                    width: 49.5%;
+                }
+            }
+        }
+    }
+}

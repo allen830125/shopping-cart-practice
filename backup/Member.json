@@ -1,0 +1,44 @@
+{ 
+    "_id" : ObjectId("5d1a0d3aaaa10e2e63291301"), 
+    "is_first_order" : false, 
+    "user_name" : "test", 
+    "user_password" : "4621d373cade4e83", 
+    "user_email" : "test", 
+    "user_auth" : "A", 
+    "order" : [
+        {
+            "quatity" : NumberInt(1), 
+            "remark" : "", 
+            "price" : NumberInt(445), 
+            "is_checkout" : false, 
+            "_id" : ObjectId("5d1afa4f6e74a9c4bb184cb5"), 
+            "name" : "light jeans0", 
+            "img_path" : "img/pants_fix1.png", 
+            "size" : "M", 
+            "product_id" : "201907011536030"
+        }, 
+        {
+            "quatity" : NumberInt(1), 
+            "remark" : "", 
+            "price" : NumberInt(640), 
+            "is_checkout" : false, 
+            "_id" : ObjectId("5d1b0e99afb196d72f81c68f"), 
+            "name" : "jorden shoes5", 
+            "img_path" : "img/shoes_fix1.png", 
+            "size" : "30", 
+            "product_id" : "201907011532545"
+        }, 
+        {
+            "quatity" : NumberInt(1), 
+            "remark" : "", 
+            "price" : NumberInt(290), 
+            "is_checkout" : false, 
+            "_id" : ObjectId("5d1b5263ffa009161b69b7ef"), 
+            "name" : "測試", 
+            "img_path" : "img/bag_fix1.png", 
+            "size" : "M", 
+            "product_id" : "20190702202237"
+        }
+    ], 
+    "__v" : NumberInt(0)
+}

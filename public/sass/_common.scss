@@ -1,0 +1,249 @@
+@import "animation";
+$borderColor:#5c4d4d;
+$hoverTextColor: #a96851;
+$hoverBackColor: rgba(48, 47, 47, 0.418);
+input:focus {
+    outline: none !important;
+    border-color: $borderColor;
+}
+
+input[type=text]:focus {
+    outline: none !important;
+    border-color: $borderColor;
+}
+
+input[type=checkbox] {
+    margin-right: 5px;
+    font-size: 14px;
+    cursor: pointer;
+    width: 15px;
+    height: 12px;
+    position: relative;
+    &:after {
+        position: absolute;
+        width: 10px;
+        height: 15px;
+        top: 0;
+        content: " ";
+        background-color: rgb(124, 121, 121);
+        color: #fff;
+        display: inline-block;
+        visibility: visible;
+        padding: 0px 3px;
+        border-radius: 3px;
+    }
+    &:checked {
+        &:after {
+            content: "✓";
+            font-size: 12px;
+        }
+    }
+}
+
+textarea {
+    border-color: rgba(48, 47, 47, 0.418);
+    resize: none;
+    margin: 5px 0px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+textarea:focus {
+    outline: none !important;
+    border-color: $borderColor;
+}
+
+a {
+    text-decoration: none;
+    &:visited {
+        color: black;
+    }
+    &:link {
+        color: black;
+    }
+}
+
+select {
+    outline: none !important;
+    border-color: rgba(48, 47, 47, 0.418);
+    &:focus {
+        outline: none !important;
+        border-color: $borderColor;
+    }
+    &:hover {
+        cursor: pointer;
+    }
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.down {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+}
+
+.up {
+    transform: rotate(-135deg);
+    -webkit-transform: rotate(-135deg);
+}
+
+.left {
+    transform: rotate(-225deg);
+    -webkit-transform: rotate(-225deg);
+}
+
+.right {
+    transform: rotate(-405deg);
+    -webkit-transform: rotate(-405deg);
+}
+
+.show-inline-block {
+    display: inline-block;
+    -webkit-animation: slide-down .6s ease-out;
+    -moz-animation: slide-down .6s ease-out;
+}
+
+.show-flex {
+    display: flex;
+}
+
+.show-off-panel-slide-up {
+    opacity: 0;
+    -webkit-animation: slide-up .6s ease-out;
+    -moz-animation: slide-up .6s ease-out;
+}
+
+.show-list {
+    display: flex;
+    -webkit-animation: list-slide-down 1s ease-out;
+    -moz-animation: list-slide-up 1s ease-out;
+}
+
+.hide-list {
+    opacity: 0;
+    max-height: 0;
+    -webkit-animation: list-slide-up .6s ease-out;
+    -moz-animation: list-slide-up .6s ease-out;
+}
+
+.hide {
+    display: none;
+}
+
+.sticky {
+    position: fixed;
+    top: -5px;
+    left: 0;
+    width: 95%;
+}
+
+.menu-sticky {
+    // border: 1px solid;
+    position: fixed;
+    top: 75px;
+    left: 0;
+    width: 98%
+}
+
+.width-100 {
+    width: 100%;
+}
+
+.width-80 {
+    width: 80%;
+}
+
+.margin-left-20 {
+    margin-left: 20%;
+}
+
+.hover-brown {
+    >a {
+        &:hover {
+            color: #a96851;
+        }
+    }
+}
+
+.btn-medium {
+    // border: 1px solid;
+    width: 100%;
+    height: 35px;
+    margin: 5px 0px;
+    padding: 5px;
+    background-color: rgb(90, 88, 88);
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    &:focus {
+        outline: none !important;
+        border-color: #5c4d4d;
+    }
+    &:hover {
+        cursor: pointer;
+        background-color: rgba(48, 47, 47, 0.7);
+    }
+}
+
+.input-medium {
+    border: 1px solid rgba(48, 47, 47, 0.418);
+    width: 100%;
+    height: 30px;
+    margin: 5px 0px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.input-bottom {
+    border-bottom: 1px solid rgba(48, 47, 47, 0.418);
+    width: 100%;
+    margin: 5px 0px;
+    padding: 5px;
+}
+
+.select-medium {
+    width: 100%;
+    height: 30px;
+    margin: 5px 0px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.border-bottom {
+    border-bottom: 2px solid $borderColor;
+}
+
+.padding-left-20 {
+    padding-left: 20.5% !important;
+}
+
+.dialog-mask {
+    position: fixed;
+    z-index: 9998;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: table;
+    background-color: rgba(0, 0, 0, .5);
+    transition: opacity .3s ease;
+    >.dialog-wrapper {
+        vertical-align: middle;
+        display: table-cell;
+        >.dialog-container-for-loading {
+            width: 70px;
+            height: 50px;
+            border: 1px solid;
+            max-height: calc(100vh - 30px);
+            margin: 0px auto;
+            padding: 10px 20px;
+            background-color: #fff;
+            border-radius: 7px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, .33);
+            transition: all .3s ease;
+            text-align: center;
+        }
+    }
+}

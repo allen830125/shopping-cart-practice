@@ -1,0 +1,1043 @@
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63909"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-01T00:00:00.000+0000"), 
+    "number" : "77529040", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6390a"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-01T00:00:00.000+0000"), 
+    "number" : "97643642", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6390b"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-01T00:00:00.000+0000"), 
+    "number" : "97643837", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6390c"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-02T00:00:00.000+0000"), 
+    "number" : "20575641", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6390d"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-02T00:00:00.000+0000"), 
+    "number" : "77529350", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6390e"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-03T00:00:00.000+0000"), 
+    "number" : "02266174", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6390f"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-04T00:00:00.000+0000"), 
+    "number" : "50711091", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63910"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-04T00:00:00.000+0000"), 
+    "number" : "26628279", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63911"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-05T00:00:00.000+0000"), 
+    "number" : "20577235", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63912"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-05T00:00:00.000+0000"), 
+    "number" : "77531575", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63913"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-05T00:00:00.000+0000"), 
+    "number" : "06916277", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63914"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-05T00:00:00.000+0000"), 
+    "number" : "86621097", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63915"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-06T00:00:00.000+0000"), 
+    "number" : "33801078", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63916"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-07T00:00:00.000+0000"), 
+    "number" : "11717859", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63917"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-07T00:00:00.000+0000"), 
+    "number" : "77532613", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63918"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-08T00:00:00.000+0000"), 
+    "number" : "58813753", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63919"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-09T00:00:00.000+0000"), 
+    "number" : "11720003", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6391a"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-09T00:00:00.000+0000"), 
+    "number" : "77533161", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6391b"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-11T00:00:00.000+0000"), 
+    "number" : "50769932", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6391c"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-11T00:00:00.000+0000"), 
+    "number" : "54192892", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6391d"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-11T00:00:00.000+0000"), 
+    "number" : "20599691", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6391e"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-11T00:00:00.000+0000"), 
+    "number" : "77534720", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6391f"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-11T00:00:00.000+0000"), 
+    "number" : "52534445", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63920"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-11T00:00:00.000+0000"), 
+    "number" : "65708143", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63921"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-12T00:00:00.000+0000"), 
+    "number" : "20581413", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63922"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-12T00:00:00.000+0000"), 
+    "number" : "20581414", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63923"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-12T00:00:00.000+0000"), 
+    "number" : "58817519", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63924"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-12T00:00:00.000+0000"), 
+    "number" : "21264231", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63925"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-13T00:00:00.000+0000"), 
+    "number" : "33804835", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63926"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-14T00:00:00.000+0000"), 
+    "number" : "11720644", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63927"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-15T00:00:00.000+0000"), 
+    "number" : "11724902", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63928"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-15T00:00:00.000+0000"), 
+    "number" : "11722218", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63929"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-15T00:00:00.000+0000"), 
+    "number" : "77536605", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6392a"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-17T00:00:00.000+0000"), 
+    "number" : "14787075", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6392b"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-17T00:00:00.000+0000"), 
+    "number" : "81221785", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6392c"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-18T00:00:00.000+0000"), 
+    "number" : "74448355", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6392d"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-18T00:00:00.000+0000"), 
+    "number" : "77537393", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6392e"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-19T00:00:00.000+0000"), 
+    "number" : "77538119", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6392f"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-21T00:00:00.000+0000"), 
+    "number" : "20587252", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63930"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-21T00:00:00.000+0000"), 
+    "number" : "50776970", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63931"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-22T00:00:00.000+0000"), 
+    "number" : "56711889", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63932"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-22T00:00:00.000+0000"), 
+    "number" : "56711892", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63933"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-25T00:00:00.000+0000"), 
+    "number" : "20589424", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63934"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-25T00:00:00.000+0000"), 
+    "number" : "06242569", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63935"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-25T00:00:00.000+0000"), 
+    "number" : "58830852", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63936"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-26T00:00:00.000+0000"), 
+    "number" : "78855964", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63937"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-27T00:00:00.000+0000"), 
+    "number" : "33813390", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63938"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-27T00:00:00.000+0000"), 
+    "number" : "77542720", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63939"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-28T00:00:00.000+0000"), 
+    "number" : "20604157", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6393a"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-28T00:00:00.000+0000"), 
+    "number" : "50729038", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6393b"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-30T00:00:00.000+0000"), 
+    "number" : "11738038", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6393c"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-30T00:00:00.000+0000"), 
+    "number" : "77544965", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6393d"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-01T00:00:00.000+0000"), 
+    "number" : "14752058", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6393e"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-01T00:00:00.000+0000"), 
+    "number" : "75616951", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6393f"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-01T00:00:00.000+0000"), 
+    "number" : "77545528", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63940"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-02T00:00:00.000+0000"), 
+    "number" : "51635213", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63941"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-02T00:00:00.000+0000"), 
+    "number" : "16736452", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63942"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-03T00:00:00.000+0000"), 
+    "number" : "33817400", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63943"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-03T00:00:00.000+0000"), 
+    "number" : "91330942", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63944"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-04T00:00:00.000+0000"), 
+    "number" : "01698683", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63945"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-05T00:00:00.000+0000"), 
+    "number" : "82973423", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63946"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-05T00:00:00.000+0000"), 
+    "number" : "73567567", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63947"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-05T00:00:00.000+0000"), 
+    "number" : "61323102", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63948"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-05T00:00:00.000+0000"), 
+    "number" : "12999590", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63949"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-06T00:00:00.000+0000"), 
+    "number" : "32499646", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6394a"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-06T00:00:00.000+0000"), 
+    "number" : "60920423", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6394b"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-06T00:00:00.000+0000"), 
+    "number" : "83902413", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6394c"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-06T00:00:00.000+0000"), 
+    "number" : "43202270", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6394d"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-06T00:00:00.000+0000"), 
+    "number" : "36493988", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6394e"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-07T00:00:00.000+0000"), 
+    "number" : "20619911", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6394f"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-07T00:00:00.000+0000"), 
+    "number" : "58844859", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63950"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-08T00:00:00.000+0000"), 
+    "number" : "77549539", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63951"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-09T00:00:00.000+0000"), 
+    "number" : "20621618", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63952"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-09T00:00:00.000+0000"), 
+    "number" : "20621619", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63953"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-09T00:00:00.000+0000"), 
+    "number" : "77549680", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63954"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-10T00:00:00.000+0000"), 
+    "number" : "82447389", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63955"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-11T00:00:00.000+0000"), 
+    "number" : "20622882", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63956"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-11T00:00:00.000+0000"), 
+    "number" : "50790474", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63957"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-11T00:00:00.000+0000"), 
+    "number" : "77551330", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63958"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-12T00:00:00.000+0000"), 
+    "number" : "46901733", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63959"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-12T00:00:00.000+0000"), 
+    "number" : "81394667", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6395a"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-12T00:00:00.000+0000"), 
+    "number" : "83182266", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6395b"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-13T00:00:00.000+0000"), 
+    "number" : "20623636", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6395c"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-13T00:00:00.000+0000"), 
+    "number" : "58850789", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6395d"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-13T00:00:00.000+0000"), 
+    "number" : "16092604", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6395e"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-13T00:00:00.000+0000"), 
+    "number" : "77552396", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6395f"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-14T00:00:00.000+0000"), 
+    "number" : "77551850", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63960"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-14T00:00:00.000+0000"), 
+    "number" : "14931181", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63961"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-15T00:00:00.000+0000"), 
+    "number" : "20624726", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63962"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-15T00:00:00.000+0000"), 
+    "number" : "50792678", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63963"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-15T00:00:00.000+0000"), 
+    "number" : "81236978", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63964"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-16T00:00:00.000+0000"), 
+    "number" : "20625710", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63965"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-16T00:00:00.000+0000"), 
+    "number" : "96301135", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63966"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-17T00:00:00.000+0000"), 
+    "number" : "28094030", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63967"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-17T00:00:00.000+0000"), 
+    "number" : "20626233", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63968"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-17T00:00:00.000+0000"), 
+    "number" : "20626273", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63969"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-17T00:00:00.000+0000"), 
+    "number" : "20626352", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6396a"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-18T00:00:00.000+0000"), 
+    "number" : "77554694", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6396b"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-19T00:00:00.000+0000"), 
+    "number" : "20627318", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6396c"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-19T00:00:00.000+0000"), 
+    "number" : "20627320", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6396d"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-19T00:00:00.000+0000"), 
+    "number" : "20627607", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6396e"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-19T00:00:00.000+0000"), 
+    "number" : "20627710", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6396f"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-20T00:00:00.000+0000"), 
+    "number" : "50745156", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63970"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-20T00:00:00.000+0000"), 
+    "number" : "20628154", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63971"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-20T00:00:00.000+0000"), 
+    "number" : "78914121", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63972"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-20T00:00:00.000+0000"), 
+    "number" : "10539297", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63973"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-20T00:00:00.000+0000"), 
+    "number" : "74277387", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63974"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-20T00:00:00.000+0000"), 
+    "number" : "18693303", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63975"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-21T00:00:00.000+0000"), 
+    "number" : "40759657", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63976"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-21T00:00:00.000+0000"), 
+    "number" : "11755360", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63977"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-22T00:00:00.000+0000"), 
+    "number" : "50746777", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63978"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-24T00:00:00.000+0000"), 
+    "number" : "20630763", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63979"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-24T00:00:00.000+0000"), 
+    "number" : "48806134", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6397a"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-24T00:00:00.000+0000"), 
+    "number" : "76297676", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6397b"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-26T00:00:00.000+0000"), 
+    "number" : "20632113", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6397c"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-26T00:00:00.000+0000"), 
+    "number" : "20612176", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6397d"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-26T00:00:00.000+0000"), 
+    "number" : "20632549", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6397e"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-27T00:00:00.000+0000"), 
+    "number" : "20633113", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df6397f"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-27T00:00:00.000+0000"), 
+    "number" : "47809426", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63980"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-28T00:00:00.000+0000"), 
+    "number" : "20612520", 
+    "type" : "elec"
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63981"), 
+    "month_type" : null, 
+    "date" : null, 
+    "number" : null, 
+    "type" : null
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63982"), 
+    "month_type" : null, 
+    "date" : null, 
+    "number" : null, 
+    "type" : null
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63983"), 
+    "month_type" : null, 
+    "date" : null, 
+    "number" : null, 
+    "type" : null
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63984"), 
+    "month_type" : null, 
+    "date" : null, 
+    "number" : null, 
+    "type" : null
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63985"), 
+    "month_type" : null, 
+    "date" : null, 
+    "number" : null, 
+    "type" : null
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63986"), 
+    "month_type" : null, 
+    "date" : null, 
+    "number" : null, 
+    "type" : null
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63987"), 
+    "month_type" : null, 
+    "date" : null, 
+    "number" : null, 
+    "type" : null
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63988"), 
+    "month_type" : null, 
+    "date" : null, 
+    "number" : null, 
+    "type" : null
+}
+{ 
+    "_id" : ObjectId("5d1592b571168b140df63989"), 
+    "month_type" : null, 
+    "date" : null, 
+    "number" : null, 
+    "type" : null
+}
+{ 
+    "_id" : ObjectId("5d1592da71168b140df63993"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-11T00:00:00.000+0000"), 
+    "number" : "07957998", 
+    "type" : "tran"
+}
+{ 
+    "_id" : ObjectId("5d1592da71168b140df63994"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-11T00:00:00.000+0000"), 
+    "number" : "55328913", 
+    "type" : "tran"
+}
+{ 
+    "_id" : ObjectId("5d1592da71168b140df63995"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-14T00:00:00.000+0000"), 
+    "number" : "12715628", 
+    "type" : "tran"
+}
+{ 
+    "_id" : ObjectId("5d1592da71168b140df63996"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-24T00:00:00.000+0000"), 
+    "number" : "12718071", 
+    "type" : "tran"
+}
+{ 
+    "_id" : ObjectId("5d1592da71168b140df63997"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-05-29T00:00:00.000+0000"), 
+    "number" : "12719350", 
+    "type" : "tran"
+}
+{ 
+    "_id" : ObjectId("5d1592da71168b140df63998"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-01T00:00:00.000+0000"), 
+    "number" : "89235733", 
+    "type" : "tran"
+}
+{ 
+    "_id" : ObjectId("5d1592da71168b140df63999"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-06T00:00:00.000+0000"), 
+    "number" : "03259668", 
+    "type" : "tran"
+}
+{ 
+    "_id" : ObjectId("5d1592da71168b140df6399a"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-24T00:00:00.000+0000"), 
+    "number" : "94879438", 
+    "type" : "tran"
+}
+{ 
+    "_id" : ObjectId("5d1592da71168b140df6399b"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "date" : ISODate("2019-06-26T00:00:00.000+0000"), 
+    "number" : "30998420", 
+    "type" : "tran"
+}
+{ 
+    "_id" : ObjectId("5d1592da71168b140df6399c"), 
+    "month_type" : null, 
+    "date" : null, 
+    "number" : null, 
+    "type" : null
+}
+{ 
+    "_id" : ObjectId("5d1592da71168b140df6399d"), 
+    "month_type" : null, 
+    "date" : null, 
+    "number" : null, 
+    "type" : null
+}
+{ 
+    "_id" : ObjectId("5d1592da71168b140df6399e"), 
+    "month_type" : null, 
+    "date" : null, 
+    "number" : null, 
+    "type" : null
+}
+{ 
+    "_id" : ObjectId("5d1592da71168b140df6399f"), 
+    "month_type" : null, 
+    "date" : null, 
+    "number" : null, 
+    "type" : null
+}
+{ 
+    "_id" : ObjectId("5d1592da71168b140df639a0"), 
+    "month_type" : null, 
+    "date" : null, 
+    "number" : null, 
+    "type" : null
+}
+{ 
+    "_id" : ObjectId("5d1592da71168b140df639a1"), 
+    "month_type" : null, 
+    "date" : null, 
+    "number" : null, 
+    "type" : null
+}
+{ 
+    "_id" : ObjectId("5d1592da71168b140df639a2"), 
+    "month_type" : null, 
+    "date" : null, 
+    "number" : null, 
+    "type" : null
+}
+{ 
+    "_id" : ObjectId("5d1592da71168b140df639a3"), 
+    "month_type" : null, 
+    "date" : null, 
+    "number" : null, 
+    "type" : null
+}
+{ 
+    "_id" : ObjectId("5d1592da71168b140df639a4"), 
+    "month_type" : null, 
+    "date" : null, 
+    "number" : null, 
+    "type" : null
+}
+{ 
+    "_id" : ObjectId("5d1592da71168b140df639a5"), 
+    "month_type" : null, 
+    "date" : null, 
+    "number" : null, 
+    "type" : null
+}
+{ 
+    "_id" : ObjectId("5d1592da71168b140df639a6"), 
+    "month_type" : null, 
+    "date" : null, 
+    "number" : null, 
+    "type" : null
+}

@@ -1,0 +1,49 @@
+{ 
+    "_id" : ObjectId("5d08c92c71168b33c26be3d6"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "number" : "03802602", 
+    "amount" : NumberInt(10000000), 
+    "winning_type" : "special"
+}
+{ 
+    "_id" : ObjectId("5d08d6fc71168b33c26be45f"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "number" : "00708299", 
+    "amount" : NumberInt(2000000), 
+    "winning_type" : "lessSpecial"
+}
+{ 
+    "_id" : ObjectId("5d08d70671168b33c26be460"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "number" : "33877270", 
+    "amount" : NumberInt(200000), 
+    "winning_type" : "first"
+}
+{ 
+    "_id" : ObjectId("5d08d72771168b33c26be469"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "number" : "21772506", 
+    "amount" : NumberInt(200000), 
+    "winning_type" : "first"
+}
+{ 
+    "_id" : ObjectId("5d08d74071168b33c26be474"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "number" : "61786409", 
+    "amount" : NumberInt(200000), 
+    "winning_type" : "first"
+}
+{ 
+    "_id" : ObjectId("5d08d83071168b33c26be48d"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "number" : "136", 
+    "amount" : NumberInt(200), 
+    "winning_type" : "sixth"
+}
+{ 
+    "_id" : ObjectId("5d08d84b71168b33c26be498"), 
+    "month_type" : "2019.05 to 2019.06", 
+    "number" : "022", 
+    "amount" : NumberInt(200), 
+    "winning_type" : "sixth"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "practice",
+    "version": "1.0.0",
+    "description": "practice program for myself",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node app.js",
+        "webpack_dev": "webpack -p --watch"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://hamber:iverson3rd@gitlab.com/hamber/practice.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://gitlab.com/hamber/practice/issues"
+    },
+    "homepage": "https://gitlab.com/hamber/practice#README",
+    "dependencies": {
+        "axios": "^0.19.0",
+        "compass": "^0.1.1",
+        "connect-mongo": "^3.0.0",
+        "ejs": "^2.6.1",
+        "element-ui": "^2.10.0",
+        "express": "^4.16.4",
+        "express-session": "^1.16.2",
+        "extract-text-webpack-plugin": "^3.0.2",
+        "file-loader": "^4.0.0",
+        "hint.css": "^2.6.0",
+        "md5js": "^1.0.7",
+        "mini-css-extract-plugin": "^0.6.0",
+        "moment": "^2.24.0",
+        "mongoose": "^5.6.0",
+        "node-sass-middleware": "^0.11.0",
+        "uglifyjs-webpack-plugin": "^2.1.3",
+        "uri-js": "^4.2.2",
+        "vue": "^2.5.17",
+        "vue-router": "^3.0.6",
+        "vue-template-compiler": "^2.5.17",
+        "vuetify": "^1.5.16",
+        "vuex": "^3.1.1"
+    },
+    "devDependencies": {
+        "babel-core": "^6.26.3",
+        "babel-loader": "^7.1.5",
+        "babel-plugin-component": "^1.1.1",
+        "babel-plugin-object-rest-spread": "0.0.0",
+        "babel-plugin-transform-runtime": "^6.23.0",
+        "babel-preset-env": "^1.7.0",
+        "css-loader": "^1.0.0",
+        "sass-loader": "^7.1.0",
+        "style-loader": "^0.23.1",
+        "vue-loader": "^15.4.2",
+        "webpack": "^4.20.2",
+        "webpack-cli": "^3.1.2"
+    }
+}
